@@ -1,0 +1,4 @@
+#Wed Oct 24 11:29:28 IDT 2018
+base.0=C\:\\Users\\zeevl\\docker\\NativeAppOfUrl\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
